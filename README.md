@@ -2,6 +2,6 @@
 
 ### Screens:
 
-![screen1](https://postimg.cc/rdK8wfmz)
-![screen2](https://postimg.cc/v1kGg5gh)
-![screen3](https://postimg.cc/hzmc9hVB)
+![screen1](https://i.postimg.cc/wBk3FPY5/s1.png)
+![screen2](https://i.postimg.cc/wvTMrV9C/s2.png)
+![screen3](https://i.postimg.cc/gJSjbZJn/s3.png)
